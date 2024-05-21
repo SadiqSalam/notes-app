@@ -1,5 +1,9 @@
 ## Some Screenshots from the application
 
+![Screenshot 2024-05-21 194503](https://github.com/SadiqSalam/notes-app/assets/125434127/67a16f6c-a844-4607-9ba3-81fe0f01874a)
+
+![Screenshot 2024-05-21 194557](https://github.com/SadiqSalam/notes-app/assets/125434127/31bff57e-bb75-48bd-8a19-7551b49c9679)
+
 ![Screenshot 2024-05-21 194616](https://github.com/SadiqSalam/notes-app/assets/125434127/fbefe6a9-2014-4561-9515-509ff89583db)
 
 
