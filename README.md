@@ -1,3 +1,18 @@
+## Some Screenshots from the application
+
+![Screenshot 2024-05-21 194616](https://github.com/SadiqSalam/notes-app/assets/125434127/fbefe6a9-2014-4561-9515-509ff89583db)
+
+
+![image](https://github.com/SadiqSalam/notes-app/assets/125434127/35e36686-53cd-435f-a0bd-f0bf0893bde6)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
